@@ -20,7 +20,7 @@
   
 <br></br>
 ##
-  ### 4. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- sample.c
+  ### 4. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- sample.java
   <br></br>
 ##
   ### 5. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
